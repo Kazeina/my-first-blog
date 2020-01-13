@@ -4,6 +4,8 @@
     <list default="true" id="b2aec2c7-25cc-4980-84a1-d351007395a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,29 +58,35 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578101094341">
+    <state x="418" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578702795260">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
-    <state x="418" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1051@0.0.1920.1051" timestamp="1578101094341" />
+    <state x="418" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1051@0.0.1920.1051" timestamp="1578702795260" />
+    <state x="494" y="117" width="800" height="808" key="CommitChangelistDialog2" timestamp="1578702770098">
+      <screen x="0" y="0" width="1920" height="1051" />
+    </state>
+    <state x="494" y="117" width="800" height="808" key="CommitChangelistDialog2/0.0.1920.1051@0.0.1920.1051" timestamp="1578702770098" />
     <state x="633" y="267" width="521" height="509" key="FileChooserDialogImpl" timestamp="1578176725929">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
     <state x="633" y="267" width="521" height="509" key="FileChooserDialogImpl/0.0.1920.1051@0.0.1920.1051" timestamp="1578176725929" />
-    <state x="333" y="228" key="SettingsEditor" timestamp="1578176971139">
+    <state x="333" y="228" key="SettingsEditor" timestamp="1578702720849">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
-    <state x="333" y="228" key="SettingsEditor/0.0.1920.1051@0.0.1920.1051" timestamp="1578176971139" />
-    <state x="626" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578176603471">
+    <state x="333" y="228" key="SettingsEditor/0.0.1920.1051@0.0.1920.1051" timestamp="1578702720849" />
+    <state x="626" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578870333429">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
-    <state x="626" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1051@0.0.1920.1051" timestamp="1578176603471" />
+    <state x="626" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1051@0.0.1920.1051" timestamp="1578870333429" />
     <state x="623" y="244" key="search.everywhere.popup" timestamp="1577995898963">
       <screen x="0" y="0" width="1920" height="1051" />
     </state>
